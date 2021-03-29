@@ -1,4 +1,4 @@
-# Chingu Solo Project - Tier 2 - Chingu Trivia - for Product Owners
+# Chingu Solo Project - Tier 3 - Chingu Trivia - for Product Owners
 
 ## Overview 
 
