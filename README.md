@@ -4,9 +4,9 @@
 
 As a Product Owner this project is a great opportunity to demonstrate your organization skills to help a team who will develop this clean and modern webpage. 
 
-You are currently on the **Tier 2 repo** and this Solo Project is only for Product Owners **not** Developers. You'll be responsible for creating User Stories and Tasks from the requirements listed below.
+You are currently on the **Tier 3 repo** and this Solo Project is only for Product Owners **not** Developers. You'll be responsible for creating User Stories and Tasks from the requirements listed below.
 
-As you increase your Product Owner skills and experience you'll be able to come back to this project and enhance it for the Tier 3 version. Ultimately you'll have a great portfolio piece to share with interviewers.
+As you increase your Product Owner skills and experience you'll be able to come back to this project to refine it so you can share the experience in interviews.
 ## About Chingu
 
 If you aren’t yet a member of Chingu we invite you to join us. We help our 
@@ -25,7 +25,9 @@ You can learn more and join us at [chingu.io](https://chingu.io).
 General instructions for all Pre-Work Projects can also be found in the Chingu Voyage Handbook (URL posted in the `#read-me-first` channel on Discord). You can also find more information about the User Stories [here](https://docs.chingu.io/projres/agile101#building-the-backlog)
 
 Your task for this Solo Project is to create Users Stories and/or tasks for 
-[Requirements](#requirements) below.
+[Requirements](#requirements) below. In addition, create Epics for the project
+functionality that will take multiple User Stories and/or Sprints to complete.
+
 Feel free to add questions or additional comments in the User Stories that you 
 feel would be helpful to team members working on it.
 
@@ -36,7 +38,7 @@ You may create your User Stories and tasks as text file or in the tool of your c
 *Structure*
 
 - [ ] Header item that includes the name for the app, and tabs (if using)
-- [ ] Card that displays a trivia question and four multiple choice answers
+- [ ] Card that displays a trivia question with multiple choice AND true/false questions
 - [ ] Place element that displays which question number the user is on and the total number of questions (ex. 'Question 1 / 10')
 - [ ] Display buttons for advancing to the next question once the current question has been answered
 - [ ] Display a message to the user that informs them if their answer was right or wrong
@@ -52,6 +54,8 @@ You may create your User Stories and tasks as text file or in the tool of your c
 - [ ] The page should not reload!
 - [ ] Questions are received from the api at the following address: *https://johnmeade-webdev.github.io/chingu_quiz_api/trial.json*
 - [ ] The api is static and does not take in parameters or require a key, simply make your fetch to the above address
+- [ ] Include a way to sort questions by subject so that a user can answer questions specific to the subject of their choosing, *look through the api response to see how you can do this*
+- [ ] Track a user through sessions using some kind of backend persistence; this should allow the user to never have any repeat questions unless they clear their progress
 
 *Upon Load:*
 
@@ -63,6 +67,17 @@ You may create your User Stories and tasks as text file or in the tool of your c
 - [ ] Try and style your app so that it doesn't overflow the viewport (require scrolling) on any device
 - [ ] Make sure your User Experience design is intuitive (buttons are clearly disabled when not available, messages are clear, etc)
 - [ ] In the name of responsiveness: please try and have your answer buttons (or divs, or whatever you use) collapse into a column in small sizes (iPhone5, etc)
+
+*Other:*
+
+- [ ] Your repo needs to have a robust README.md
+- [ ] Make sure that there are no errors in the developer console before submitting
+
+**Extras (Not Required)**
+
+- [ ] Make your design fully responsive *(small/large/portrait/landscape, etc.)*
+- [ ] Offer the user the ability to navigate to previous questions
+- [ ] Play with formats for user interaction: drag 'n drop vs. click, etc.
 
 ## Example
 
