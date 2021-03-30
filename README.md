@@ -37,8 +37,8 @@ can also find more information about the User Stories
 ### What You Need to Do
 
 Your task for this Solo Project is to **_create Users Stories and/or tasks_** 
-for [Requirements](#requirements) below. In addition, create Epics for the 
-project functionality that will take multiple User Stories and/or Sprints to 
+for [Requirements](#requirements) below. In addition, **_create Epics_** for 
+functionality that will take multiple User Stories and/or Sprints to 
 complete.
 
 Feel free to add questions or additional comments in the User Stories that you 
